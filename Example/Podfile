@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'LYJKit_Example' do
+  pod 'LYJKit', :path => '../'
+
+  target 'LYJKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
