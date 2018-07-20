@@ -1,0 +1,6 @@
+framework module Pods_LYJKit_Tests {
+  umbrella header "Pods-LYJKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

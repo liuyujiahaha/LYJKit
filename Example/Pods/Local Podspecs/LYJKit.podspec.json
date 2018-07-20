@@ -1,0 +1,22 @@
+{
+  "name": "LYJKit",
+  "version": "0.1.0",
+  "summary": "A short description of LYJKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/417378336@qq.com/LYJKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "417378336@qq.com": "417378336@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/417378336@qq.com/LYJKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LYJKit/Classes/**/*"
+}
